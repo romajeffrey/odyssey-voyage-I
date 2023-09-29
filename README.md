@@ -1,3 +1,9 @@
+https://www.apollographql.com/tutorials/voyage-part1/09-connecting-data-using-entities
+
+https://www.apollographql.com/docs/react/get-started
+
+
+
 # Voyage I: Federation from Day One
 
 Welcome to FlyBy, the companion app of Odyssey Voyage I! You can find the [course lessons and instructions in Odyssey](https://apollographql.com/tutorials/voyage-part1/), Apollo's learning platform.
